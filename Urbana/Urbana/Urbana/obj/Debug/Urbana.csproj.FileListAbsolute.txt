@@ -1,0 +1,7 @@
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\bin\Urbana.dll
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\bin\Urbana.pdb
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\bin\EntityFramework.dll
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\bin\EntityFramework.xml
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\obj\Debug\Urbana.dll
+C:\Projects\Urbana\Urbana-Site\Urbana\Urbana\Urbana\obj\Debug\Urbana.pdb
